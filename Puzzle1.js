@@ -11,5 +11,7 @@ right
 right
 right
 up
+getColor();
 right 
+getColor();
 up
