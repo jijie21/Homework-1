@@ -1,5 +1,4 @@
 right();
-
 var a = getColor();
 function movea (){
   if (getColor() == "blue") {
@@ -10,6 +9,10 @@ function movea (){
   left();
   down();
   }
+    if(getColor() == "blue") {
+    right();
+    down();
+    }  
  }
 }
 
