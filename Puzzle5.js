@@ -1,13 +1,13 @@
-right
-right
+right();
+right();
 function move (){
 if (getColor == "blue") {
-down
+down();
 }
 if (getColor == "red") {
-  up
+  up();
  }
- right
- right
+ right();
+ right();
 }
-right
+right();
