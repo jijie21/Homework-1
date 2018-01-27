@@ -1,12 +1,12 @@
 down();
 down();
-var A= getColor;
+var a= getColor();
 down();
 down();
 down();
 right();
 right();
-setColor(Color = "red");
+setColor(a);
 right();
 right();
 up();
