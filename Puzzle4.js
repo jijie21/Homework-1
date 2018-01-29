@@ -12,6 +12,6 @@ up();
 right(); 
 var B = getColor()；
 down(); 
-setColor(B)
+setColor(B)；
 right(); 
 right(); 
