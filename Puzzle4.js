@@ -10,7 +10,7 @@ right();
 right(); 
 up(); 
 right(); 
-var B = getColor()
+var B = getColor()；
 down(); 
 setColor(B)
 right(); 
