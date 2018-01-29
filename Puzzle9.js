@@ -4,6 +4,7 @@ function repeatDown(total) {
   while (count < total) {
     down();
     count = count + 1;
+    setColor("red");
   }
 }
 
@@ -12,6 +13,7 @@ function repeatUp(total) {
   while (count < total) {
     up();
     count = count + 1;
+    setColor("red");
   }
 }
   
@@ -20,6 +22,7 @@ function repeatRight(total) {
   while (count < total) {
     right();
     count = count + 1;
+    setColor("red");
   }
 }
 
@@ -28,6 +31,7 @@ function repeatLeft(total) {
   while (count < total) {
     left();
     count = count + 1;
+    setColor("red");
   }
 }
 
